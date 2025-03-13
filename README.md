@@ -1,2 +1,1 @@
-# JqueryUI
-JqueryUI
+https://salman-noor-web.github.io/JqueryUI/
